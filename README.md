@@ -82,10 +82,10 @@ Evaluation Metrics:
 ## 📈 Results
 
 Best Model:
-(Add results)
+Gradient Boosting model
 
 Accuracy:
-(Add metrics)
+0.9506
 
 ---
 
